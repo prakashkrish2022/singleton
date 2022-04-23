@@ -13,6 +13,7 @@ public class Employee {
 		
 		double maths = m.maths(5, 10);
 		System.out.println(maths);
+		System.out.println("maths");
 		
 		double maths1 = m.maths(15, 10);
 		System.out.println(maths1);
